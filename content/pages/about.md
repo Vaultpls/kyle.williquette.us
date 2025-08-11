@@ -4,4 +4,4 @@ draft = false
 title = 'About'
 norss = true
 +++
-Hey.
+I am a guy who likes technology, modern warfare, and liberty.  I believe history teaches us about why it is what it is.
